@@ -113,9 +113,6 @@ python manage.py runserver
 ## 📫 Get in Touch
 
 * [Documentation](https://docs.cadeval.org)
-* [Twitter](https://twitter.com/cadeval)
-* [LinkedIn](https://linkedin.com/company/cadeval)
-* [Discord](https://discord.gg/cadeval)
 
 ## 📊 Organization Stats
 

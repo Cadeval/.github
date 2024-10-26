@@ -8,7 +8,7 @@ To streamline building analysis and comparison through accessible, reliable, and
 
 ## 🌟 Featured Projects
 
-### BuildingMetrics
+### CadEval
 Advanced building parameter analysis platform combining IFCOpenShell and Django
 - **Tech Stack**: Python, Django, IFCOpenShell, PostgreSQL
 - **Features**:
@@ -17,26 +17,6 @@ Advanced building parameter analysis platform combining IFCOpenShell and Django
   - Custom parameter calculations
   - RESTful API for building data
   - Real-time 3D visualization
-
-### CompareCAD
-Multi-model comparison engine for analyzing building designs
-- **Tech Stack**: Django REST framework, IFCOpenShell, Celery
-- **Features**:
-  - Parallel IFC processing
-  - Customizable comparison metrics
-  - Automated report generation
-  - Version control for building models
-  - API-first architecture
-
-### ParametricEval
-Real-time parametric modeling evaluation tool
-- **Tech Stack**: Django, IFCOpenShell, WebSocket
-- **Features**:
-  - Live parameter updating
-  - IFC export/import
-  - Real-time validation
-  - Collaborative editing
-  - Version history
 
 ## 🔧 Technical Framework
 
